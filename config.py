@@ -1,7 +1,7 @@
 # DATABASE SETTINGS
-pg_db_username = 'postgres'
+pg_db_username = 'fs'
 pg_db_password = ''
-pg_db_name = 'flasksqlalchemyrestfulapi'
+pg_db_name = 'rest'
 pg_db_hostname = 'localhost'
 
 # MYSQL
